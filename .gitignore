@@ -19,6 +19,10 @@ playground.xcworkspace
 
 ##　Build Exclusions
 ContentView.swift
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+DerivedData/
 
 # Swift Package Manager
 #
